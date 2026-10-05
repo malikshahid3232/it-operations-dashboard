@@ -4,6 +4,27 @@
 
 > **Illustrative dashboard showcase using synthetic ITSM data.** The KPI values in this visual are presentation examples; the repository dataset and future Power BI implementation provide the authoritative project data.
 
+## Executive Dashboard
+
+![Executive Dashboard](docs/images/it-operations-dashboard-executive-overview.png)
+
+> **Executive Dashboard — KPIs and visuals calculated directly from the 1,200-record synthetic ITSM dataset in this repository.**
+
+### Verified Portfolio KPIs
+
+| KPI | Value |
+|---|---:|
+| Total incidents | 1,200 |
+| Open incidents | 300 |
+| Resolved + closed | 600 |
+| SLA compliance* | 98.7% |
+| Average MTTR* | 12.4 hours |
+| First Contact Resolution* | 66.0% |
+| Reopen rate* | 6.0% |
+| P1 + P2 incidents | 180 |
+
+* Calculated for resolved and closed incidents where applicable.
+
 > Professional Proof of Concept | ITSM | Service Delivery | Incident Analytics | Management Reporting
 
 A synthetic IT Service Management (ITSM) dataset and dashboard-ready project designed to demonstrate how operational ticket data can be transformed into management-level insights.
