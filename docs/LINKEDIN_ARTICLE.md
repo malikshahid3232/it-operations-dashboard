@@ -127,7 +127,7 @@ The next stage of the project will explore how the same ITSM data can support:
 
 This is where I see the future of IT Operations developing:
 
-**ITSM data → analytics → automation → AI assistance → better operational decisions**
+**ITSM data → Analytics → Automation → AI assistance → Better operational decisions**
 
 ## The Project
 
@@ -136,6 +136,18 @@ I have published the proof-of-concept on GitHub:
 https://github.com/malikshahid3232/it-operations-dashboard
 
 The repository contains the synthetic dataset, Python data generator, KPI definitions, dashboard design documentation and Power BI implementation guidance.
+
+The future of IT Operations is not simply about handling more tickets.
+
+It is about using operational data, automation and AI to understand what is happening, anticipate what may happen next, and make better decisions.
+
+This project is an ongoing proof-of-concept, and I plan to extend it into SLA-breach analysis, recurring-incident detection, problem-management intelligence and AI-assisted Service Desk workflows.
+
+## About the Author
+
+**Shahid Al Parvez Malik** is a Senior IT Infrastructure & Service Delivery Manager specializing in enterprise IT operations, ITSM, infrastructure, procurement and technology management.
+
+**Professional portfolio:** https://shahidalparvezmalik.com/
 
 I would be interested in hearing how other IT Operations and Service Delivery leaders approach operational KPI reporting.
 
