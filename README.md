@@ -199,6 +199,20 @@ DIVIDE(
 
 > These measures are illustrative. Validate business rules and filter context before using them in production.
 
+## Power BI Implementation
+
+The project includes a reproducible guide for rebuilding the dashboard in Power BI Desktop from the repository dataset:
+
+[Open the Power BI Implementation Guide](docs/POWER_BI_GUIDE.md)
+
+The guide covers data import, recommended data types, DAX measures, dashboard layout, KPI validation and a future star-schema model.
+
+## LinkedIn Article Draft
+
+A publication-ready LinkedIn article explaining the management thinking behind this project is available here:
+
+[Open the LinkedIn Article Draft](docs/LINKEDIN_ARTICLE.md)
+
 ## Professional Relevance
 
 This project demonstrates the connection between:
