@@ -151,4 +151,4 @@ This project is an ongoing proof-of-concept, and I plan to extend it into SLA-br
 
 I would be interested in hearing how other IT Operations and Service Delivery leaders approach operational KPI reporting.
 
-#ITOperations #ITSM #ServiceDelivery #PowerBI #ITInfrastructure #Automation #DataAnalytics #IncidentManagement
+#ITOperations #ITSM #ServiceDelivery #PowerBI #ITInfrastructure #Automation #DataAnalytics #IncidentManagement #irishtech #irishittech #ireland
