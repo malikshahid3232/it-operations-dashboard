@@ -1,5 +1,9 @@
 # IT Operations Dashboard
 
+![IT Operations Dashboard](docs/images/it-operations-dashboard-banner.png)
+
+> **Illustrative dashboard showcase using synthetic ITSM data.** The KPI values in this visual are presentation examples; the repository dataset and future Power BI implementation provide the authoritative project data.
+
 > Professional Proof of Concept | ITSM | Service Delivery | Incident Analytics | Management Reporting
 
 A synthetic IT Service Management (ITSM) dataset and dashboard-ready project designed to demonstrate how operational ticket data can be transformed into management-level insights.
